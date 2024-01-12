@@ -1,0 +1,16 @@
+{
+  "rules": {
+    "textlint-rule-preset-japanese": {
+      "sentence-length": {
+        "max": 120
+      }
+    },
+    "textlint-rule-no-mixed-zenkaku-and-hankaku-alphabet": true,
+    "preset-ja-technical-writing": {
+      "sentence-length": {
+        "max": 120
+      }
+    },
+    "textlint-rule-preset-smarthr": true
+  }
+}
